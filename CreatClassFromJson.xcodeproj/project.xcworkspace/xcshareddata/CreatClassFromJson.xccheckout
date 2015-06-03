@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D513CCBF-829B-44FE-9380-56C891EB36A2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CreatClassFromJson</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>545072d1-7c83-4ed0-9ed5-9e8ca52166bd++254</key>
+		<string>svn://svn.code.anzogame.com:9528/client/ios/Tools/CreatClassFromJson</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CreatClassFromJson.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>545072d1-7c83-4ed0-9ed5-9e8ca52166bd++254</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>545072d1-7c83-4ed0-9ed5-9e8ca52166bd++254</key>
+		<string>svn://svn.code.anzogame.com:9528</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.code.anzogame.com:9528/client/ios/Tools/CreatClassFromJson/CreatClassFromJson.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>545072d1-7c83-4ed0-9ed5-9e8ca52166bd++254</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>545072d1-7c83-4ed0-9ed5-9e8ca52166bd++254</string>
+			<key>IDESourceControlWCCName</key>
+			<string>temp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

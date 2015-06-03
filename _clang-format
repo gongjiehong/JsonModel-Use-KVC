@@ -1,0 +1,12 @@
+---
+Language:        Cpp
+# BasedOnStyle:  WebKit
+UseTab: Never
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+ColumnLimit: 0
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+SpacesInAngles: true
